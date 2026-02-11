@@ -1,0 +1,103 @@
+"id","modelo","velocidad","precio_venta","id_construccion"
+1,rural,4,329.0,8
+2,urbano,8,611.0,84
+3,rural,8,453.0,25
+4,cosechar,1,523.0,71
+5,de carreras,2,848.0,49
+6,cosechar,6,738.0,14
+7,de carreras,3,289.0,90
+8,plantar,2,728.0,19
+9,plantar,5,271.0,97
+10,cosechar,5,378.0,41
+11,rural,1,568.0,17
+12,urbano,1,549.0,39
+13,cosechar,9,767.0,35
+14,plantar,8,455.0,
+15,cosechar,7,387.0,60
+16,urbano,6,848.0,11
+17,urbano,5,938.0,98
+18,rural,3,356.0,97
+19,cosechar,3,231.0,71
+20,plantar,1,148.0,100
+21,plantar,5,485.0,73
+22,de carreras,10,796.0,90
+23,cosechar,8,757.0,96
+24,cosechar,6,991.0,20
+25,plantar,2,161.0,56
+26,de carreras,7,905.0,30
+27,rural,10,728.0,30
+28,cosechar,4,768.0,205
+29,cosechar,7,214.0,69
+30,rural,7,890.0,67
+31,urbano,9,883.0,75
+32,urbano,5,199.0,64
+33,rural,10,966.0,80
+34,rural,7,333.0,80
+35,plantar,5,580.0,5
+36,de carreras,4,260.0,73
+37,rural,3,659.0,56
+38,de carreras,8,978.0,94
+39,de carreras,5,654.0,74
+40,de carreras,4,275.0,9
+41,de carreras,1,410.0,62
+42,rural,4,719.0,96
+43,plantar,5,671.0,43
+44,rural,5,552.0,28
+45,plantar,1,222.0,61
+46,rural,4,762.0,29
+47,urbano,1,224.0,49
+48,de carreras,7,548.0,69
+49,urbano,1,547.0,29
+50,plantar,3,321.0,52
+51,cosechar,6,211.0,55
+52,urbano,10,966.0,27
+53,urbano,2,252.0,78
+54,cosechar,5,361.0,10
+55,rural,1,439.0,16
+56,urbano,7,250.0,97
+57,de carreras,2,876.0,56
+58,plantar,1,192.0,79
+59,plantar,1,415.0,36
+60,cosechar,6,274.0,44
+61,rural,2,332.0,71
+62,urbano,8,622.0,97
+63,urbano,3,908.0,63
+64,urbano,1,919.0,37
+65,rural,6,551.0,65
+66,cosechar,6,196.0,89
+67,rural,6,353.0,54
+68,plantar,7,391.0,87
+69,rural,6,998.0,46
+70,de carreras,5,318.0,86
+71,urbano,10,638.0,70
+72,de carreras,3,856.0,47
+73,rural,7,626.0,78
+74,rural,1,293.0,78
+75,urbano,7,770.0,66
+76,plantar,4,500.0,50
+77,urbano,5,650.0,76
+78,cosechar,4,595.0,1
+79,rural,3,538.0,12
+80,rural,4,748.0,28
+81,cosechar,7,601.0,1
+82,rural,9,962.0,86
+83,cosechar,10,243.0,74
+84,cosechar,7,294.0,61
+85,plantar,5,380.0,32
+86,plantar,6,557.0,20
+87,de carreras,6,122.0,85
+88,de carreras,10,891.0,86
+89,urbano,3,845.0,51
+90,urbano,7,942.0,56
+91,plantar,4,103.0,68
+92,plantar,9,452.0,25
+93,cosechar,3,743.0,14
+94,rural,1,456.0,57
+95,de carreras,10,785.0,99
+96,rural,8,256.0,48
+97,cosechar,7,734.0,41
+98,cosechar,2,888.0,66
+99,rural,2,202.0,8
+100,urbano,5,706.0,13
+37,rural,3,659.0,56
+90,urbano,7,1942.0,56

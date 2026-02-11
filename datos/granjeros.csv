@@ -1,0 +1,103 @@
+"id","nombre","descripcion","dinero","puntos","nivel"
+1,Dorian U. Ayala,agresivo,1810.0,479,9
+2,Melvin Davis,estándar,3679.0,117,10
+3,Lucas Barr,estándar,2607.0,47,3
+4,Jeremy T. Clarke,conservador,861.0,322,9
+5,Salvador K. Drake,conservador,85.0,353,3
+6,Melyssa O. Baldwin,conservador,3174.0,434,4
+7,Rahim G. Stark,agresivo,183.0,250,10
+8,Beatrice M. Conway,agresivo,4289.0,260,4
+9,Audra Randolph,estándar,2074.0,157,3
+10,Shelby R. Griffith,estándar,2238.0,42,8
+11,Isabella Stevenson,cuidadoso,1532.0,445,9
+12,Candice J. Banks,estándar,625.0,237,8
+13,Alika R. Valentine,estándar,4206.0,15,5
+14,Alexis G. Flynn,conservador,4012.0,435,5
+15,Bert Fulton,agresivo,4135.0,79,1
+16,Joan S. Bowers,estándar,4018.0,197,7
+17,Kiara Caldwell,estándar,474.0,181,8
+18,Axel E. Castillo,cuidadoso,1302.0,42,5
+19,David U. Glass,conservador,941.0,136,7
+20,Gage H. Gardner,cuidadoso,1123.0,35,7
+21,Cooper W. Webster,cuidadoso,1902.0,455,3
+22,Tara Q. Gates,agresivo,3703.0,120,10
+23,Deborah Carey,conservador,1480.0,478,10
+24,Marah U. Davenport,investigador,3040.0,365,6
+25,Mariam Morrison,cuidadoso,1821.0,439,8
+26,Leslie H. Patterson,conservador,1313.0,270,1
+27,Fuller Hensley,investigador,4788.0,29,7
+28,Larissa Larsen,cuidadoso,1831.0,45,2
+29,Elizabeth Elliott,agresivo,2979.0,142,10
+30,Lucian Battle,investigador,3894.0,18,6
+31,Fletcher Ross,investigador,1839.0,387,4
+32,Hilda Barnes,investigador,2197.0,157,4
+33,Martina Wheeler,investigador,3743.0,218,9
+34,Cathleen O. Webster,investigador,3766.0,8,7
+35,Larissa Mcintosh,cuidadoso,1765.0,261,1
+36,Basia Macdonald,investigador,4853.0,363,3
+37,Guinevere Gilbert,cuidadoso,2721.0,315,5
+38,Gillian Johnston,agresivo,4535.0,393,7
+39,Freya Jenkins,conservador,546.0,199,9
+40,Willa Wilder,estándar,4789.0,184,8
+41,Roary Michael,cuidadoso,3798.0,184,9
+42,Kitra T. Pearson,estándar,136.0,423,10
+43,Forrest X. Phillips,cuidadoso,218.0,332,2
+44,Dominique G. Myers,estándar,1857.0,50,8
+45,Travis U. Snyder,investigador,2437.0,240,1
+46,Yuri M. Norris,estándar,477.0,55,1
+47,Alfonso Chen,investigador,2818.0,43,6
+48,Salvador Norman,investigador,1733.0,239,3
+49,Judith Monroe,agresivo,1223.0,483,7
+50,Melanie C. Sims,estándar,1462.0,254,1
+51,Gloria Z. Rodriquez,estándar,2454.0,328,2
+52,Adria Wagner,estándar,2435.0,69,8
+53,Colton Velasquez,investigador,1565.0,101,4
+54,Christian Chaney,investigador,2807.0,66,2
+55,Otto A. Mitchell,agresivo,3942.0,4,5
+56,Kelsey Cote,investigador,4841.0,16,10
+57,Lani L. Greer,agresivo,1776.0,313,10
+58,Rajah Y. Rhodes,cuidadoso,888.0,53,9
+59,Angelica C. Delaney,investigador,622.0,463,8
+60,Cooper T. Vincent,conservador,1616.0,268,8
+61,Vivian Klein,agresivo,3796.0,202,7
+62,Caesar Francis,agresivo,2897.0,354,9
+63,Cassandra C. Reynolds,estándar,3080.0,63,4
+64,Pamela I. Stark,agresivo,4172.0,87,2
+65,Ulysses Z. Schwartz,investigador,3551.0,206,3
+66,Indigo Y. Massey,estándar,4412.0,32,6
+67,Cairo L. Valdez,estándar,2349.0,280,2
+68,Isadora Aguirre,cuidadoso,2187.0,467,4
+69,Ebony Colon,conservador,2557.0,4,1
+70,Jessamine S. Levine,conservador,4733.0,385,6
+71,Joshua Key,estándar,451.0,107,2
+72,Eleanor Bradshaw,conservador,2832.0,328,6
+73,Castor Vasquez,cuidadoso,2384.0,57,3
+74,Emmanuel N. Giles,estándar,3677.0,393,3
+75,Camden Rivera,cuidadoso,554.0,128,5
+76,Ciaran M. Dillard,agresivo,4319.0,23,7
+77,Vincent S. Everett,estándar,4267.0,484,3
+78,Bertha F. Davis,conservador,2314.0,361,1
+79,Ruby Garner,conservador,3384.0,85,10
+80,Mira A. Sykes,investigador,1522.0,440,2
+81,Urielle Buckley,investigador,4785.0,393,3
+82,Nash G. Mcfadden,agresivo,1843.0,209,4
+83,Catherine L. Miles,cuidadoso,4141.0,125,9
+84,Lois Valencia,investigador,891.0,258,5
+85,Richard R. Hurley,agresivo,864.0,403,5
+86,Justine Levine,cuidadoso,3295.0,150,9
+87,Illiana Reilly,estándar,4216.0,352,1
+88,Whilemina Barlow,investigador,1568.0,297,2
+89,Vladimir F. Robbins,investigador,3403.0,457,5
+90,Dustin U. Moore,estándar,606.0,93,8
+91,Connor P. Ellis,agresivo,3413.0,252,8
+92,Kelsey Schmidt,estándar,1072.0,229,7
+93,Jacob Roth,estándar,1309.0,187,9
+94,Brennan B. Vincent,agresivo,3158.0,485,7
+95,Lionel Thomas,cuidadoso,2906.0,472,10
+96,Bradley P. Spencer,estándar,3553.0,227,9
+97,Brennan Duran,estándar,4747.0,170,8
+98,Elizabeth Watkins,agresivo,3839.0,357,4
+99,Jesse Heath,estándar,3608.0,49,5
+100,Brendan L. Allison,investigador,851.0,54,3
+17,Kiara Caldwell,estándar,474.0,181,8
+72,Eleanor Bradshaw,conservador,5000.0,328,6

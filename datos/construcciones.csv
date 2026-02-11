@@ -1,0 +1,103 @@
+"id","nombre","precio","id_granjero"
+1,granja,162.0,
+2,casa de madera,204.0,19
+3,mansion,122.0,49
+4,mansion,402.0,43
+5,granja,220.0,36
+6,establo,470.0,19
+7,invernadero,191.0,64
+8,palomar,141.0,86
+9,invernadero,394.0,35
+10,granja,247.0,26
+11,palomar,480.0,53
+12,invernadero,380.0,51
+13,establo,224.0,76
+14,establo,326.0,84
+15,invernadero,183.0,69
+16,palomar,208.0,26
+17,establo,309.0,62
+18,establo,343.0,37
+19,establo,410.0,47
+20,mansion,282.0,69
+21,casa de madera,precioErroneo,35
+22,granja,434.0,55
+23,granja,201.0,78
+24,mansion,361.0,38
+25,establo,113.0,53
+26,casa de madera,446.0,63
+27,invernadero,204.0,61
+28,granja,188.0,45
+29,establo,246.0,13
+30,granja,476.0,13
+31,establo,327.0,19
+32,invernadero,358.0,11
+33,granja,213.0,78
+34,granja,247.0,59
+35,casa de madera,282.0,30
+36,granja,238.0,17
+37,casa de madera,227.0,8
+38,invernadero,414.0,83
+39,granja,472.0,57
+40,invernadero,143.0,89
+41,establo,442.0,61
+42,casa de madera,141.0,49
+43,establo,349.0,33
+44,mansion,228.0,63
+45,establo,103.0,3
+46,mansion,325.0,32
+47,casa de madera,138.0,40
+48,palomar,322.0,17
+49,granja,490.0,55
+50,mansion,437.0,48
+51,casa de madera,267.0,74
+52,granja,193.0,84
+53,palomar,403.0,81
+54,casa de madera,234.0,10
+55,mansion,172.0,12
+56,palomar,435.0,18
+57,invernadero,217.0,76
+58,invernadero,423.0,18
+59,invernadero,431.0,21
+60,granja,195.0,55
+61,invernadero,380.0,24
+62,casa de madera,345.0,90
+63,casa de madera,311.0,85
+64,casa de madera,255.0,64
+65,palomar,255.0,32
+66,establo,305.0,22
+67,mansion,176.0,90
+68,establo,133.0,17
+69,palomar,231.0,44
+70,casa de madera,387.0,70
+71,palomar,248.0,20
+72,mansion,437.0,5
+73,mansion,187.0,19
+74,palomar,207.0,38
+75,invernadero,468.0,10
+76,casa de madera,201.0,56
+77,casa de madera,300.0,40
+78,establo,368.0,66
+79,invernadero,279.0,60
+80,granja,107.0,35
+81,palomar,407.0,8
+82,palomar,115.0,82
+83,invernadero,185.0,23
+84,establo,106.0,11
+85,invernadero,463.0,30
+86,palomar,457.0,30
+87,palomar,410.0,12
+88,establo,395.0,44
+89,invernadero,132.0,48
+90,casa de madera,338.0,50
+91,palomar,367.0,10
+92,mansion,224.0,8
+93,establo,151.0,29
+94,mansion,183.0,67
+95,establo,103.0,36
+96,mansion,376.0,21
+97,casa de madera,500.0,72
+98,granja,371.0,70
+99,establo,104.0,46
+100,invernadero,187.0,63
+37,casa de madera,227.0,8
+98,granja,471.0,70
