@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.ppereac.Main",
+            "projectName": "farmville",
+            "args": "config.properties"       
+        }
+    ]
+}
