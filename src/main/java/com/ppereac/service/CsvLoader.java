@@ -56,7 +56,7 @@ public class CsvLoader {
 
             try (CSVParser csvParser = format.parse(reader)) {
 
-                // 1. Se crea un Savepoint, para poder hacer rollback en caso de error en este
+                // Creación de un Savepoint, para poder hacer rollback en caso de error en este
                 // archivo
                 // sin afectar a los archivos anteriores que ya se han procesado correctamente.
                 savepoint = conn.setSavepoint("Savepoint_" + nombreArchivo);
@@ -85,7 +85,7 @@ public class CsvLoader {
                 }
             }
 
-            // 2. Commit si todo va bien
+            // Commit si todo va bien
             conn.commit();
             LogHelper.info("✔ Fichero " + nombreArchivo + " cargado y confirmado (COMMIT).");
 
