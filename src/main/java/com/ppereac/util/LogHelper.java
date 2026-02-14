@@ -16,6 +16,10 @@ public class LogHelper {
 
     // Formato para la fecha en los ficheros de log
     private static final DateTimeFormatter formatter = DateTimeFormatter.ofPattern("dd-MM-yyyy HH:mm:ss");
+    
+    // Códigos ANSI para colores en consola
+    private static final String ANSI_RED = "\u001B[31m";
+    private static final String ANSI_RESET = "\u001B[0m";
 
     /**
      * Escribe en el fichero de errores.
@@ -29,7 +33,7 @@ public class LogHelper {
             pw.println("[" + LocalDateTime.now().format(formatter) + "] ERROR: " + mensaje);
 
         } catch (IOException e) {
-            consoleLogger.error("Fallo crítico!!! No se pudo escribir en el log de errores.", e);
+            consoleLogger.error(ANSI_RED + "Fallo crítico!!! No se pudo escribir en el log de errores." + ANSI_RESET, e);
         }
     }
 
@@ -43,7 +47,7 @@ public class LogHelper {
             pw.println("[" + LocalDateTime.now().format(formatter) + "] DUPLICADO: " + mensaje);
 
         } catch (IOException e) {
-            consoleLogger.error("No se pudo escribir en el log de duplicados.", e);
+            consoleLogger.error(ANSI_RED + "No se pudo escribir en el log de duplicados." + ANSI_RESET, e);
         }
     }
 
@@ -53,6 +57,6 @@ public class LogHelper {
     }
 
     public static void error(String msg, Throwable t) {
-        consoleLogger.error(msg, t);
+        consoleLogger.error(ANSI_RED + msg + ANSI_RESET, t);
     }
 }
