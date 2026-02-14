@@ -1,4 +1,4 @@
-"id","modelo","velocidad","precio_venta","id_construccion"
+id,modelo,velocidad,precio_venta,id_construccion
 1,rural,4,329.0,8
 2,urbano,8,611.0,84
 3,rural,8,453.0,25
@@ -26,7 +26,7 @@
 25,plantar,2,161.0,56
 26,de carreras,7,905.0,30
 27,rural,10,728.0,30
-28,cosechar,4,768.0,205
+28,cosechar,4,768.0,30
 29,cosechar,7,214.0,69
 30,rural,7,890.0,67
 31,urbano,9,883.0,75

@@ -1,0 +1,11 @@
+[14-02-2026 13:03:13] ERROR: Fichero: plantaciones.csv | Error: For input string: "precioIncorrecto"
+[14-02-2026 13:03:59] ERROR: Fichero: plantaciones.csv | Error: ERROR: insert or update on table "plantaciones" violates foreign key constraint "plantaciones_ibfk_1"
+  Detail: Key (id_granjero)=(200) is not present in table "granjeros".
+[14-02-2026 13:04:47] ERROR: Fichero: riegos.csv | Error: ERROR: insert or update on table "riegos" violates foreign key constraint "riegos_ibfk_1"
+  Detail: Key (id_plantacion)=(156) is not present in table "plantaciones".
+[14-02-2026 13:06:04] ERROR: Fichero: construcciones.csv | Error: For input string: "precioErroneo"
+[14-02-2026 13:07:04] ERROR: Fichero: tractores.csv | Error: ERROR: insert or update on table "tractores" violates foreign key constraint "tractores_ibfk_1"
+  Detail: Key (id_construccion)=(205) is not present in table "construcciones".
+[14-02-2026 13:08:07] ERROR: Fichero: granjero_granjero.csv | Error: For input string: ""
+[14-02-2026 13:09:08] ERROR: Fichero: granjero_granjero.csv | Error: ERROR: insert or update on table "granjero_granjero" violates foreign key constraint "granjero_granjero_ibfk_2"
+  Detail: Key (id_vecino)=(158) is not present in table "granjeros".

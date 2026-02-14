@@ -1,4 +1,4 @@
-"id","nombre","precio","id_granjero"
+id,nombre,precio,id_granjero
 1,granja,162.0,
 2,casa de madera,204.0,19
 3,mansion,122.0,49
@@ -19,7 +19,7 @@
 18,establo,343.0,37
 19,establo,410.0,47
 20,mansion,282.0,69
-21,casa de madera,precioErroneo,35
+21,casa de madera,182.0,35
 22,granja,434.0,55
 23,granja,201.0,78
 24,mansion,361.0,38

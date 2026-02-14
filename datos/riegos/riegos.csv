@@ -1,4 +1,4 @@
-"id","tipo","velocidad","id_plantacion"
+id,tipo,velocidad,id_plantacion
 1,goteo,9,60
 2,manguera,1,72
 3,manguera,5,76
@@ -101,4 +101,4 @@
 100,regadera,7,4
 31,manguera,2,59
 94,manguera,100,38
-69,regadio,1,156
+69,regadio,1,51
