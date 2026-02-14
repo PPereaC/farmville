@@ -24,7 +24,7 @@ public class DatabaseConnection {
                 // VIP: Se desactiva el auto-guardado para manejar las transacciones manualmente
                 connection.setAutoCommit(false);
                 
-                System.out.println("> Conexión a la BDD establecida correctamente.");
+                LogHelper.info("> Conexión a la BDD establecida correctamente.");
 
             } catch (SQLException e) {
                 throw new SQLException("Error conectando a la BDD: " + e.getMessage(), e);
